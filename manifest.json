@@ -1,0 +1,16 @@
+{
+  "name": "Padmaja Medicals",
+  "short_name": "Padmaja Medicals",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f294a",
+  "icons": [
+    {
+      "src": "padmaja_icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
